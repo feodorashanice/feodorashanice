@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About Me ⋆𐙚₊˚⊹♡
-Sophomore of Computer Science @ Bandung Institute of Technology<br>_Interested in Data Analysis, Product Management, and Software Engineering_
+Sophomore of Computer Science @ Bandung Institute of Technology<br>_Interested in Product Management, Data Analysis, and Software Engineering_
 
 
 ## Top Skills ๋࣭ ⭑✮💻₊ ⊹
